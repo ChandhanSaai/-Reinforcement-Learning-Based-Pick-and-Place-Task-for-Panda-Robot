@@ -38,7 +38,7 @@ Follow the steps below to set up the environment and install all necessary depen
 
 ```bash
 git clone https://github.com/ChandhanSaai/-Reinforcement-Learning-Based-Pick-and-Place-Task-for-Panda-Robot.git
-cd robosuite-sac-pick-place
+cd -Reinforcement-Learning-Based-Pick-and-Place-Task-for-Panda-Robot
 ```
 ### 2. Create a Conda Environment
 ```bash
